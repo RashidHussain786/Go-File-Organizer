@@ -12,11 +12,11 @@ A simple and efficient command-line tool written in Go to organize files in a di
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/RashidHussain786/Go-File-Organizer.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repository-name
+   cd Go-File_Organizer
    ```
 3. Build the executable:
    ```sh
