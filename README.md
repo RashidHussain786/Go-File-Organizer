@@ -16,7 +16,7 @@ A simple and efficient command-line tool written in Go to organize files in a di
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Go-File_Organizer
+   cd Go-File-Organizer
    ```
 3. Build the executable:
    ```sh
